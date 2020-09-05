@@ -1,0 +1,5 @@
+com\mycompany\mediadorp\pruebaMediador.class
+com\mycompany\mediadorp\ComponentCliente.class
+com\mycompany\mediadorp\ConcretCliente.class
+com\mycompany\mediadorp\ConcretMediador.class
+com\mycompany\mediadorp\IMediador.class
